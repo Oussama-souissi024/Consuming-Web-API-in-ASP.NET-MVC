@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Name": "ASP.NetCoreWebApiProject.csproj",
+        "Action": "Start"
+      },
+      {
+        "Name": "..\\ASP.NetCoreWebAPIClientProject2\\ASP.NetCoreWebAPIClientProject2.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
